@@ -47,10 +47,9 @@ class BaseConfig(object):
 
     ENABLED_MODULES = (
         'auth',
-
         'users',
         'teams',
-
+        'customers',
         'api',
     )
 
