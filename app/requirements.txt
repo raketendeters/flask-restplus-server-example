@@ -8,7 +8,8 @@ SQLAlchemy==1.1.5
 SQLAlchemy-Utils==0.32.12
 Flask-SQLAlchemy==2.2
 Alembic==0.8.10
-werkzeug>0.15
+
+
 
 marshmallow>=2.13.5
 flask-marshmallow==0.7.0
@@ -23,7 +24,7 @@ Flask-Login==0.4.0
 permission==0.4.1
 
 arrow==0.8.0
-
+psycopg2==2.8.2
 six
 enum34; python_version < '3.4'
 
